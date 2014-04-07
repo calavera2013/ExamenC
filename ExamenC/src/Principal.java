@@ -23,15 +23,17 @@ public class Principal {
 		// sumar
 		System.out.println( "La suma de " + a + " y " + b + " es " +sumar(a,b) );
 		
-		public static int sumar(int a, int b){
-			return a+b;
-		}
-		// dividir
-		System.out.println("La division de " + a + " y " + b + " es " +dividir(a,b));
-		// ...
-		public static int dividir(int a, int b){
-			return a/b;
-		}
+	
+	}
+
+	private static int dividir(int a, int b) {
+		
+		return a/b;
+	}
+
+	private static int sumar(int a, int b) {
+		
+		return a+b;
 	}
 
 }
