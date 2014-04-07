@@ -21,9 +21,9 @@ public class Principal {
 
 	}
 	
-	public static int  sumar(int a, int b){
+	public static int  sumar(int x, int b){
 		int resultado = 0;
-		resultado = a + b;
+		resultado = x + b;
 		return resultado;
 	}
 	
