@@ -10,13 +10,13 @@ public class Principal {
 		
 		// leer primer numero
 		try{
-		int a = Integer.parseInt(leer.nextLine());
+		int a1 = Integer.parseInt(leer.nextLine());
 		}catch(Exception e){
 			System.out.println("Error debe introducir un numero entero para poder realizar las operaciones");
 		}
 		// leer segundo numero
 		try{
-		int b = Integer.parseInt(leer.nextLine());
+		int b1 = Integer.parseInt(leer.nextLine());
 		}catch(Exception e){
 			System.out.println("Error debe introducir un numero entero para poder realizar las operaciones");
 		}
