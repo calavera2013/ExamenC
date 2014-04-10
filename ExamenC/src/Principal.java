@@ -29,7 +29,7 @@ public class Principal {
 		System.out.println( "La multiplicacion de " + a + " y " + b + " es " +multiplicacion);
 		
 		//dividir
-		System.out.println( "La division de " + a + " y " + b + " es " +division);
+		System.out.println( "La division deeeee " + a + " y " + b + " es " +division);
 
 	}
 
